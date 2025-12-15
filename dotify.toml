@@ -1,0 +1,5 @@
+[config]
+name = "Atlas-Desktop"
+description = "Full Atlas desktop configuration"
+version = "0.0.1"
+author = "Maksim Shushkevich"

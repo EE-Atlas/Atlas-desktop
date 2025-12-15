@@ -1,0 +1,4 @@
+depends:
+  - Atlas-hypr
+  - browser
+  - editor
