@@ -1,4 +1,0 @@
-[submodule "manifests/Atlas-hypr"]
-	path = manifests/Atlas-hypr
-	url = https://github.com/EE-Atlas/Atlas-hypr
-	branch = main

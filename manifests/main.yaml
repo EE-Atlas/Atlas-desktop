@@ -1,4 +1,4 @@
 depends:
-  - Atlas-hypr
+  - git+https://github.com/EE-Atlas/Atlas-hypr
   - browser
   - editor
