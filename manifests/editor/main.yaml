@@ -1,0 +1,4 @@
+actions:
+  - procedure: paru.install
+    info: Installing Zed code editor
+    package: ["zed"]
